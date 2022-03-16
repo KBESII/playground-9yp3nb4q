@@ -1,4 +1,11 @@
-?[Quel est le retour de la fonction suivante : public void Test (void) { int a = 0; return a++; }]
+?[Quel est le retour de la fonction suivante : 
+```C#
+public void Test (void) 
+{ 
+    int a = 0; 
+    return a++; 
+}
+```]
 -[ ] -1
 -[ ] 0
 -[x] 1
