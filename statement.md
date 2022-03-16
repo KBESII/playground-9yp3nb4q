@@ -6,7 +6,7 @@ void Test ()
 }
 ```
 
-?[Quel va être le retour de cette fonction ?]
+?[Quel va être le retour de la fonction ci dessus ?]
 -[ ] 0
 -[ ] 1
 -[ ] Un nombre inderterminé
@@ -20,7 +20,7 @@ int Test ()
 }
 ```
 
-?[Quel va être le retour de cette fonction ?]
+?[Quel va être le retour de la fonction ci dessus ?]
 -[ ] 0
 -[ ] 1
 -[x] Un nombre inderterminé
@@ -35,7 +35,7 @@ int Test ()
 }
 ```
 
-?[Quel va être le retour de cette fonction ?]
+?[Quel va être le retour de la fonction ci dessus ?]
 -[x] 0
 -[ ] 1
 -[ ] Un nombre inderterminé
