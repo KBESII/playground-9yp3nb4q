@@ -10,6 +10,7 @@ public void Test (void)
 -[ ] -1
 -[ ] 0
 -[x] 1
+-[x] Cette fonction produit une erreur
 
 ?[What is the answer to Life, the Universe and Everything?]
 -[ ] There is no answer to that!
