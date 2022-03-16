@@ -7,21 +7,21 @@ void Test ()
 ```
 
 ?[Quel va être le retour de cette fonction ?]
--[ ] -1
 -[ ] 0
 -[ ] 1
+-[ ] Un nombre inderterminé
 -[x] Cette fonction produit une erreur
 
 ```C
-int Test (void) 
+int Test () 
 { 
     int * a; 
     return &a; 
 }
 ```
 
-?[What is the answer to Life, the Universe and Everything?]
--[ ] There is no answer to that!
--[ ] Sleep and eat
--[x] Easy, this is 42
--[ ] Peace & Love
+?[Quel va être le retour de cette fonction ?]
+-[ ] 0
+-[ ] 1
+-[x] Un nombre inderterminé
+-[ ] Cette fonction produit une erreur
