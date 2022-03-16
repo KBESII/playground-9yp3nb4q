@@ -5,12 +5,10 @@ public void Test (void)
     return a++; 
 }
 ```
-?[Quel est le retour de la fonction suivante :]
+?[Quel va être le retour de cette fonction ?]
 -[ ] -1
 -[ ] 0
 -[x] 1
--[ ] Cela provoque une erreur à l'execution
--[ ] Cela provoque une erreur à la compilation
 
 ?[What is the answer to Life, the Universe and Everything?]
 -[ ] There is no answer to that!
