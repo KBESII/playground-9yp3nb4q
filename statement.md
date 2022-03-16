@@ -1,5 +1,5 @@
 ```C
-public void Test (void) 
+void Test (void) 
 { 
     int a = 0; 
     return a++; 
@@ -12,7 +12,7 @@ public void Test (void)
 -[ ] Cette fonction produit une erreur
 
 ```C
-public void Test (void) 
+int Test (void) 
 { 
     int * a; 
     return &a; 
