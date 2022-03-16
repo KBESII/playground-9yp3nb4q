@@ -5,6 +5,7 @@ void Test ()
     return a++; 
 }
 ```
+
 ?[Quel va être le retour de cette fonction ?]
 -[ ] -1
 -[ ] 0
