@@ -1,5 +1,5 @@
-?[Quel est le retour de la fonction suivante : 
-```C#
+?[Quel est le retour de la fonction suivante : \
+```C#\
 public void Test (void) 
 { 
     int a = 0; 
