@@ -4,6 +4,7 @@ public void Test (void)
     int a = 0; 
     return a++; 
 }
+
 ```
 ?[Quel va être le retour de cette fonction ?]
 -[ ] -1
