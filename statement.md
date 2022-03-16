@@ -1,4 +1,4 @@
-?[Quel est le retour de la fonction suivante : 
+?[Quel est le retour de la fonction suivante :
 ```C#
 public void Test (void) 
 { 
