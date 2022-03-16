@@ -1,5 +1,5 @@
 ```C
-void Test (void) 
+void Test () 
 { 
     int a = 0; 
     return a++; 
@@ -8,8 +8,8 @@ void Test (void)
 ?[Quel va être le retour de cette fonction ?]
 -[ ] -1
 -[ ] 0
--[x] 1
--[ ] Cette fonction produit une erreur
+-[ ] 1
+-[x] Cette fonction produit une erreur
 
 ```C
 int Test (void) 
